@@ -1,4 +1,5 @@
-
+const btnEnd = document.getElementById("btn_end");
+btnEnd.addEventListener ('click',reload_page);
 
 //массив частй для ника
 let part = ["pro", "dreamsq", "tv", "333", 
@@ -43,3 +44,6 @@ let name = prompt("Введи свое имя");
 const logName = document.getElementById("log-try");
 logName.textContent = name+"_65rus"+full_nick;
 
+function reload_page(){
+    window.location.reload();
+} 
