@@ -31,8 +31,13 @@ html {
   }
 
   .text-info {
-      margin-top: 2rem;
+    margin-top: 2rem;
     text-align: center;
+  }
+  .nick {
+    text-align: center;
+    width: 95%;
+    margin: 0 auto;
   }
 
   button {
