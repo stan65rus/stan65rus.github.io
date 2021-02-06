@@ -3,10 +3,11 @@ btnEnd.addEventListener ('click',reload_page);
 
 //массив частй для ника
 let part = ["pro", "dreamsq", "tv", "333", 
-"mavrodi", "228", "mider", "top", "palifagus", 
+"mavrodi", "228", "brawl_stars", "top", "palifagus", 
 "UKR", "blackReaper", "StarHacker2", "СинийЛучНик", 
 "skeletikgames","misterL38956", "borislav", "TheDanilYT", "bel", "zachem-mne-spasat-otrebye-vrode-tebya",
-"KanekiKun", "movi", "fortnite", "YaroslavMirnyi", "Pro100_marik", "assasin", "blackDimaIQ228", "navalniyTOP", "SSS", "popov", "666"];
+"KanekiKun", "movi", "fortnite", "YaroslavMirnyi", "Pro100_marik", "assasin", "blackDimaIQ228", "navalniyTOP", "SSS", "popov", "666",
+"Kur"];
 
 //максимальный случайный член массива
 let part_max = part.length;
